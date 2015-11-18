@@ -1,0 +1,112 @@
+Name: sp|Q14739.2|LBR_HUMAN
+Accession: Q14739
+Description: RecName: Full=Lamin-B receptor; AltName: Full=Integral nuclear envelope inner membrane protein; AltName: Full=LMN2R
+
+Name: sp|Q5R7H4.1|LBR_PONAB
+Accession: Q5R7H4
+Description: RecName: Full=Lamin-B receptor; AltName: Full=Integral nuclear envelope inner membrane protein
+
+Name: sp|Q3U9G9.2|LBR_MOUSE
+Accession: Q3U9G9
+Description: RecName: Full=Lamin-B receptor; AltName: Full=Integral nuclear envelope inner membrane protein
+
+Name: sp|O08984.1|LBR_RAT
+Accession: O08984
+Description: RecName: Full=Lamin-B receptor; AltName: Full=Integral nuclear envelope inner membrane protein; AltName: Full=NBP60
+
+Name: sp|P23913.1|LBR_CHICK
+Accession: P23913
+Description: RecName: Full=Lamin-B receptor
+
+Name: sp|Q8WMV1.1|ERG24_BOVIN
+Accession: Q8WMV1
+Description: RecName: Full=Delta(14)-sterol reductase; Short=Delta-14-SR; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase; AltName: Full=Transmembrane 7 superfamily member 2
+
+Name: sp|Q71KT5.2|ERG24_MOUSE
+Accession: Q71KT5
+Description: RecName: Full=Delta(14)-sterol reductase; Short=Delta-14-SR; AltName: Full=C-14 sterol reductase; Short=C14SR; AltName: Full=Sterol C14-reductase; AltName: Full=Transmembrane 7 superfamily member 2
+
+Name: sp|O76062.3|ERG24_HUMAN
+Accession: O76062
+Description: RecName: Full=Delta(14)-sterol reductase; Short=Delta-14-SR; AltName: Full=Another new gene 1 protein; AltName: Full=C-14 sterol reductase; AltName: Full=Putative sterol reductase SR-1; AltName: Full=Sterol C14-reductase; AltName: Full=Transmembrane 7 superfamily member 2
+
+Name: sp|Q09195.1|ERG24_SCHPO
+Accession: Q09195
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase
+
+Name: sp|P78575.1|ERG24_ASCIM
+Accession: P78575
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase [Ascobolus immersus]
+
+Name: sp|Q01447.1|ERG24_FUSSO
+Accession: Q01447
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase
+
+Name: sp|O13597.1|ERG24_SEPLY
+Accession: O13597
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase [Septoria lycopersici]
+
+Name: sp|P38670.1|ERG24_NEUCR
+Accession: P38670
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase
+
+Name: sp|P32462.1|ERG24_YEAST
+Accession: P32462
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase
+
+Name: sp|Q54PP1.1|ERG24_DICDI
+Accession: Q54PP1
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Sterol C14-reductase
+
+Name: sp|Q9LDR4.2|ERG24_ARATH
+Accession: Q9LDR4
+Description: RecName: Full=Delta(14)-sterol reductase; AltName: Full=C-14 sterol reductase; AltName: Full=Protein FACKEL; AltName: Full=Sterol C14-reductase
+
+Name: sp|Q7SXF1.1|DHCR7_DANRE
+Accession: Q7SXF1
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Sterol Delta(7)-reductase
+
+Name: sp|O88455.1|DHCR7_MOUSE
+Accession: O88455
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Sterol Delta(7)-reductase
+
+Name: sp|Q9Z2Z8.1|DHCR7_RAT
+Accession: Q9Z2Z8
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Sterol Delta(7)-reductase
+
+Name: sp|Q9UBM7.1|DHCR7_HUMAN
+Accession: Q9UBM7
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Putative sterol reductase SR-2; AltName: Full=Sterol Delta(7)-reductase
+
+Name: sp|Q7ZXH1.1|DHCR7_XENLA
+Accession: Q7ZXH1
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Sterol Delta(7)-reductase [Xenopus laevis]
+
+Name: sp|Q6P4M0.1|DHCR7_XENTR
+Accession: Q6P4M0
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Sterol Delta(7)-reductase [Xenopus (Silurana) tropicalis]
+
+Name: sp|Q5UQI4.1|DHCR7_MIMIV
+Accession: Q5UQI4
+Description: RecName: Full=Probable 7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Sterol Delta(7)-reductase [Acanthamoeba polyphaga mimivirus]
+
+Name: sp|Q5E9J5.1|DHCR7_BOVIN
+Accession: Q5E9J5
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Sterol Delta(7)-reductase
+
+Name: sp|Q9LDU6.1|ST7R_ARATH
+Accession: Q9LDU6
+Description: RecName: Full=7-dehydrocholesterol reductase; Short=7-DHC reductase; AltName: Full=Protein DWARF 5; AltName: Full=Sterol Delta(7)-reductase
+
+Name: sp|P25340.2|ERG4_YEAST
+Accession: P25340
+Description: RecName: Full=Delta(24(24(1)))-sterol reductase; AltName: Full=C-24(28) sterol reductase; AltName: Full=Sterol Delta(24(28))-reductase
+
+Name: sp|P36209.2|STS1_SCHPO
+Accession: P36209
+Description: RecName: Full=Delta(24(24(1)))-sterol reductase; AltName: Full=C-24(28) sterol reductase; AltName: Full=Sterol Delta(24(28))-reductase
+
+Name: sp|Q8MLV1.1|LBR_DROME
+Accession: Q8MLV1
+Description: RecName: Full=Lamin-B receptor; AltName: Full=dLBR
+

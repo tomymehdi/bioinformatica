@@ -9,10 +9,7 @@ $prog = "blastx";
 $db = "swissprot";
 $e_val = "1e-10";
 
-my @params = ( '-prog' => $prog,
-         '-data' => $db,
-         '-expect' => $e_val,
-         '-readmethod' => 'SearchIO' );
+my @params = ( '-prog' => $prog, '-data' => $db, '-expect' => $e_val, '-readmethod' => 'SearchIO' );
 
 my $remoteBlast = Bio::Tools::Run::RemoteBlast->new(@params);
 

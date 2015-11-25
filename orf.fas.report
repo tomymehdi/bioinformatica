@@ -1,0 +1,25 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Wed 18 Nov 2015 18:07:35
+# Commandline: patmatmotifs
+#    -full
+#    -sequence orf.fas
+#    -outfile orf.fas.report
+# Report_format: dbmotif
+# Report_file: orf.fas.report
+########################################
+
+#=======================================
+#
+# Sequence: NM_002296_1     from: 1   to: 24
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------

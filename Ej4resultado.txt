@@ -1,0 +1,1242 @@
+Seq: SAARRGRGGARPACGTAGRESAAG
+Found MYRISTYL at position 9
+   match:   GARPAC
+
+-------------------------------------------------------------------
+Seq: EAPRGGAGEARARLAGLRGARARPGSVARVDLPPGCCATILREPSVSPPEPGAG
+Found CK2_PHOSPHO_SITE at position 47
+   match:   SPPE
+
+Found MYRISTYL at position 6
+   match:   GAGEAR
+
+Found MYRISTYL at position 16
+   match:   GLRGAR
+
+Found MYRISTYL at position 35
+   match:   GCCATI
+
+-------------------------------------------------------------------
+Seq: RRARGSAAGLLCDYSPGAVRVTAGTWRRLIIENAK
+Found PKC_PHOSPHO_SITE at position 25
+   match:   TWR
+
+Found MYRISTYL at position 5
+   match:   GSAAGL
+
+-------------------------------------------------------------------
+Seq: KRREAGPGRRAPGLRDCGARERGRVASRAWICRRVAVRLFSGSRPCHRRNLAQVNYRKCQVGNLPMVKW
+Found MYRISTYL at position 13
+   match:   GLRDCG
+
+Found MYRISTYL at position 42
+   match:   GSRPCH
+
+Found AMIDATION at position 7
+   match:   PGRR
+
+-------------------------------------------------------------------
+Seq: SGKRSMAWEFTLL
+Found PKC_PHOSPHO_SITE at position 1
+   match:   SGK
+
+Found AMIDATION at position 1
+   match:   SGKR
+
+-------------------------------------------------------------------
+Seq: EVDGLGVHFIMK
+-------------------------------------------------------------------
+Seq: ATTAPPSFTL
+-------------------------------------------------------------------
+Seq: SRNSEPRQHLPALHCEV
+-------------------------------------------------------------------
+Seq: AKERWLNFQFPFQTPRESIKVTLPIPWSTT
+Found PKC_PHOSPHO_SITE at position 14
+   match:   TPR
+
+Found PKC_PHOSPHO_SITE at position 18
+   match:   SIK
+
+Found CK2_PHOSPHO_SITE at position 14
+   match:   TPRE
+
+-------------------------------------------------------------------
+Seq: KCPPICFCFPPGRH
+-------------------------------------------------------------------
+Seq: LPLGKGKVAQLPVPLPDAEGVDQGHAPDPLVDHLKVPADLLLLPTRPTLRKQGGKWKLN
+Found PKC_PHOSPHO_SITE at position 48
+   match:   TLR
+
+Found MYRISTYL at position 20
+   match:   GVDQGH
+
+-------------------------------------------------------------------
+Seq: IDSADSEAIWK
+-------------------------------------------------------------------
+Seq: SHLEIASADIMGSLSILREMTHLIKIHRKNSVCHKKAVT
+Found CAMP_PHOSPHO_SITE at position 28
+   match:   RKNS
+
+Found CK2_PHOSPHO_SITE at position 1
+   match:   SHLE
+
+-------------------------------------------------------------------
+Seq: KYTGKIQFVTRKQLHSNTV
+Found PKC_PHOSPHO_SITE at position 3
+   match:   TGK
+
+Found PKC_PHOSPHO_SITE at position 10
+   match:   TRK
+
+-------------------------------------------------------------------
+Seq: QHSIAFVQEEKKSN
+-------------------------------------------------------------------
+Seq: PSSKKRRSQIKRNRF
+Found CAMP_PHOSPHO_SITE at position 5
+   match:   KRRS
+
+Found PKC_PHOSPHO_SITE at position 2
+   match:   SSK
+
+Found MICROBODIES_CTER at position 13
+   match:   NRF
+
+-------------------------------------------------------------------
+Seq: ILRKKNTLQKNWQ
+Found CAMP_PHOSPHO_SITE at position 4
+   match:   KKNT
+
+-------------------------------------------------------------------
+Seq: GRKIRCKRTGSENL
+Found CK2_PHOSPHO_SITE at position 9
+   match:   TGSE
+
+-------------------------------------------------------------------
+Seq: PPSGQRTWSLEEYLVCFSSCLACLCSSSCCC
+Found CK2_PHOSPHO_SITE at position 9
+   match:   SLEE
+
+-------------------------------------------------------------------
+Seq: SDPHPGKGLGVWRSTWCVSHHVWPACVPLPVAVDV
+Found MYRISTYL at position 10
+   match:   GVWRST
+
+-------------------------------------------------------------------
+Seq: TERSQSSEFPSSFASFV
+Found PKC_PHOSPHO_SITE at position 1
+   match:   TER
+
+-------------------------------------------------------------------
+Seq: ISLLLCQLCMSYGKPEYLGSTSCGF
+Found MYRISTYL at position 19
+   match:   GSTSCG
+
+-------------------------------------------------------------------
+Seq: FKSCSTYCQLERL
+-------------------------------------------------------------------
+Seq: VMGNQSIWGLPPVVFDSSPVLPTANWKGCRRNASY
+Found ASN_GLYCOSYLATION at position 4
+   match:   NQSI
+
+Found ASN_GLYCOSYLATION at position 32
+   match:   NASY
+
+Found MYRISTYL at position 28
+   match:   GCRRNA
+
+-------------------------------------------------------------------
+Seq: KERLLLMEEDSSID
+Found CK2_PHOSPHO_SITE at position 11
+   match:   SSID
+
+-------------------------------------------------------------------
+Seq: HLQSSEHLSSRA
+Found PKC_PHOSPHO_SITE at position 9
+   match:   SSR
+
+Found MICROBODIES_CTER at position 10
+   match:   SRA
+
+-------------------------------------------------------------------
+Seq: SFITCTVIFFSLHLRPLFFVWS
+-------------------------------------------------------------------
+Seq: IKWILCFYPDICSHRNISLPGRRVSLRVQSFSSVCTCGHCFLCGLECVSLHALFESAPE
+Found ASN_GLYCOSYLATION at position 16
+   match:   NISL
+
+Found CAMP_PHOSPHO_SITE at position 22
+   match:   RRVS
+
+Found PKC_PHOSPHO_SITE at position 13
+   match:   SHR
+
+Found PKC_PHOSPHO_SITE at position 25
+   match:   SLR
+
+Found CK2_PHOSPHO_SITE at position 56
+   match:   SAPE
+
+Found AMIDATION at position 20
+   match:   PGRR
+
+-------------------------------------------------------------------
+Seq: PVACQLWKCCL
+-------------------------------------------------------------------
+Seq: KRPGMTCRLPALEMLSMISSLAVN
+Found PKC_PHOSPHO_SITE at position 6
+   match:   TCR
+
+-------------------------------------------------------------------
+Seq: TLELVLLISNTFVNCAPD
+-------------------------------------------------------------------
+Seq: IAPRIDWMGGY
+-------------------------------------------------------------------
+Seq: KYRTALFHPWP
+-------------------------------------------------------------------
+Seq: NENTGPRCSILGHDFS
+-------------------------------------------------------------------
+Seq: FPASLCGGCSLE
+Found PRENYLATION at position 9
+   match:   CSLE
+
+-------------------------------------------------------------------
+Seq: LIVSSFSMWWMLSGMRKRC
+-------------------------------------------------------------------
+Seq: RPWTSSTMDLDSCWLLETWCGFPLFTASKPFI
+Found CK2_PHOSPHO_SITE at position 6
+   match:   STMD
+
+-------------------------------------------------------------------
+Seq: GSVVDDHGHHPRWIWIHAGFWRLGVGSLYLQLPSLLFSQSSK
+Found PKC_PHOSPHO_SITE at position 40
+   match:   SSK
+
+Found CK2_PHOSPHO_SITE at position 2
+   match:   SVVD
+
+-------------------------------------------------------------------
+Seq: SVIQMKCLGQWLL
+-------------------------------------------------------------------
+Seq: SVLANGFSNYCSETLWLCNLPRCKFSEKCIPEKSQ
+Found PKC_PHOSPHO_SITE at position 26
+   match:   SEK
+
+-------------------------------------------------------------------
+Seq: SSEVQILRKMHSGKIPVIQSLHI
+Found PKC_PHOSPHO_SITE at position 12
+   match:   SGK
+
+-------------------------------------------------------------------
+Seq: KPFILQREKIF
+-------------------------------------------------------------------
+Seq: SKACTFKNHSYFNGKKSSSFWMVGLCSPPQLLG
+Found ASN_GLYCOSYLATION at position 8
+   match:   NHSY
+
+Found CAMP_PHOSPHO_SITE at position 15
+   match:   KKSS
+
+Found PKC_PHOSPHO_SITE at position 5
+   match:   TFK
+
+Found AMIDATION at position 13
+   match:   NGKK
+
+-------------------------------------------------------------------
+Seq: SHHGLGVVPPMWF
+-------------------------------------------------------------------
+Seq: FLDGGALFATPITWVISSWPWRGPSHVVLTTFCLIST
+Found MYRISTYL at position 5
+   match:   GALFAT
+
+-------------------------------------------------------------------
+Seq: PHSALFLHNLFHHVACPPRSS
+-------------------------------------------------------------------
+Seq: KMPSRKFADGEVVRGRWPGSSLYYEVEILSHDSTSQLYTVKYKDGTELELKENDIKPLTSFRQRKGGSTSSSPSRRRGSRSRSRSRSPGRPPKSARRSASASHQADIKEARREVEVKLTPLILKPFGNSISRYNGEPEHIERNDAPHKNTQEKFSLSQESSYIATQYSLRPRREEVKLKEIDSKEEKYVAKELAVRTFEVTPIRAKDLEFGGVPGVFLIMFGLPVFLFLLLLMCKQKDPSLLNFPPPLPALYELWETRVFGVYLLWFLIQVLFYLLPIGKVVEGTPLIDGRRLKYRLNGFYAFILTSAVIGTSLFQGVEFHYVYSHFLQFALAATVFCVVLSVYLYMRSLKAPRNDLSPASSGNAVYDFFIGRELNPRIGTFDLKYFCELRPGLIGWVVINLVMLLAEMKIQDRAVPSLAMILVNSFQLLYVVDALWNEEALLTTMDIIHDGFGFMLAFGDLVWVPFIYSFQAFYLVSHPNEVSWPMASLIIVLKLCGYVIFRGANSQKNAFRKNPSDPKLAHLKTIHTSTGKNLLVSGWWGFVRHPNYLGDLIMALAWSLPCGFNHILPYFYIIYFTMLLVHREARDEYHCKKKYGVAWEKYCQRVPYRIFPYIY
+Found CAMP_PHOSPHO_SITE at position 76
+   match:   RRGS
+
+Found PKC_PHOSPHO_SITE at position 4
+   match:   SRK
+
+Found PKC_PHOSPHO_SITE at position 39
+   match:   TVK
+
+Found PKC_PHOSPHO_SITE at position 60
+   match:   SFR
+
+Found PKC_PHOSPHO_SITE at position 74
+   match:   SRR
+
+Found PKC_PHOSPHO_SITE at position 94
+   match:   SAR
+
+Found PKC_PHOSPHO_SITE at position 168
+   match:   SLR
+
+Found PKC_PHOSPHO_SITE at position 349
+   match:   SLK
+
+Found PKC_PHOSPHO_SITE at position 507
+   match:   SQK
+
+Found PKC_PHOSPHO_SITE at position 531
+   match:   TGK
+
+Found CK2_PHOSPHO_SITE at position 46
+   match:   TELE
+
+Found CK2_PHOSPHO_SITE at position 183
+   match:   SKEE
+
+Found CK2_PHOSPHO_SITE at position 444
+   match:   TTMD
+
+Found MYRISTYL at position 66
+   match:   GGSTSS
+
+Found MYRISTYL at position 127
+   match:   GNSISR
+
+Found MYRISTYL at position 211
+   match:   GGVPGV
+
+Found AMIDATION at position 289
+   match:   DGRR
+
+Found STEROL_REDUCT_1 at position 363
+   match:   GNAVYDFFIGRELNPR
+
+Found STEROL_REDUCT_2 at position 580
+   match:   LLVHREARDEYHCKKKYGVAWEKY
+
+-------------------------------------------------------------------
+Seq: EEIRRGLGKVLSACALPYISIHLLMLFWLFYKILLQFQLPFAKTRKKIRNFLLLH
+Found PKC_PHOSPHO_SITE at position 44
+   match:   TRK
+
+-------------------------------------------------------------------
+Seq: FISPCCLSTEKLVTSTTVRRNTAWLGKSTVSVCPTVYFHTSTNALLAFLQNTPAIPAAICKNKEKNPKLSFVALTGSVLFFFFLSQDYGAE
+Found CAMP_PHOSPHO_SITE at position 19
+   match:   RRNT
+
+Found PKC_PHOSPHO_SITE at position 9
+   match:   TEK
+
+Found PKC_PHOSPHO_SITE at position 17
+   match:   TVR
+
+-------------------------------------------------------------------
+Seq: CSSGFSTKYSCNSSCHLQKQGKKSETFFCCTDRVCTFFFLFESGLWSRVVDLLI
+Found ASN_GLYCOSYLATION at position 12
+   match:   NSSC
+
+Found PKC_PHOSPHO_SITE at position 6
+   match:   STK
+
+Found PKC_PHOSPHO_SITE at position 31
+   match:   TDR
+
+Found AMIDATION at position 20
+   match:   QGKK
+
+-------------------------------------------------------------------
+Seq: SFNIAVFTCINLQLT
+-------------------------------------------------------------------
+Seq: LTVNIGKIQVRM
+-------------------------------------------------------------------
+Seq: HRKNTSKDVRICILMGNFQPLI
+Found ASN_GLYCOSYLATION at position 4
+   match:   NTSK
+
+Found CAMP_PHOSPHO_SITE at position 2
+   match:   RKNT
+
+Found PKC_PHOSPHO_SITE at position 5
+   match:   TSK
+
+Found CK2_PHOSPHO_SITE at position 5
+   match:   TSKD
+
+-------------------------------------------------------------------
+Seq: GCENLHFNGKFSTLNLKTEDSLNINVL
+-------------------------------------------------------------------
+Seq: YKCTVKNAIDVYGF
+Found PKC_PHOSPHO_SITE at position 4
+   match:   TVK
+
+-------------------------------------------------------------------
+Seq: RMLLMFMVSDYFSNFDVFLPVGFS
+Found CK2_PHOSPHO_SITE at position 13
+   match:   SNFD
+
+-------------------------------------------------------------------
+Seq: CLWFLITFQILMFFCQLAFLK
+-------------------------------------------------------------------
+Seq: CFFASWLFLNENTVPFKVHLCFIQ
+Found PRENYLATION at position 21
+   match:   CFIQ
+
+-------------------------------------------------------------------
+Seq: STFMFYSVRE
+Found PKC_PHOSPHO_SITE at position 7
+   match:   SVR
+
+Found CK2_PHOSPHO_SITE at position 7
+   match:   SVRE
+
+-------------------------------------------------------------------
+Seq: MKTLFHLKYIYVLFSKRIEFSFVFL
+Found PKC_PHOSPHO_SITE at position 15
+   match:   SKR
+
+-------------------------------------------------------------------
+Seq: ENRIFICFSLNPLLII
+-------------------------------------------------------------------
+Seq: NFHLFFFKSFTNYII
+-------------------------------------------------------------------
+Seq: LYNLKAKRRAYIKC
+-------------------------------------------------------------------
+Seq: KQKEGPILNAESEK
+Found PKC_PHOSPHO_SITE at position 12
+   match:   SEK
+
+-------------------------------------------------------------------
+Seq: KVMTLLADTA
+-------------------------------------------------------------------
+Seq: MLKVKSDDIISRHCLKETICSSWLNLNF
+-------------------------------------------------------------------
+Seq: RRPFVAVGLTSTSKTTLKM
+Found PKC_PHOSPHO_SITE at position 12
+   match:   TSK
+
+Found PKC_PHOSPHO_SITE at position 16
+   match:   TLK
+
+Found MYRISTYL at position 8
+   match:   GLTSTS
+
+-------------------------------------------------------------------
+Seq: IHSLVFCNIW
+-------------------------------------------------------------------
+Seq: FFVIYGDFRFFCTVF
+Found PRENYLATION at position 12
+   match:   CTVF
+
+-------------------------------------------------------------------
+Seq: LQIFLYSILNVR
+-------------------------------------------------------------------
+Seq: YMVTSDFFVQYFECEMIVRTNCLFNKTFSVF
+Found ASN_GLYCOSYLATION at position 25
+   match:   NKTF
+
+-------------------------------------------------------------------
+Seq: LSGLTVFLTKHFQYFK
+-------------------------------------------------------------------
+Seq: QNIFSILNKIL
+-------------------------------------------------------------------
+Seq: IKNFGTIRIHSLLYRRCC
+Found PKC_PHOSPHO_SITE at position 6
+   match:   TIR
+
+-------------------------------------------------------------------
+Seq: CELKILEQLEFIHYCIEDAVKT
+-------------------------------------------------------------------
+Seq: NIGRVFFLIQSL
+-------------------------------------------------------------------
+Seq: SKVCEFGFATSIAGVCLPL
+-------------------------------------------------------------------
+Seq: IWLCYLNCRCLFAFINCCK
+-------------------------------------------------------------------
+Seq: KMLLKHRKGIFLDPKFVNLALLPQLQVFVCLYKLLQIEKK
+-------------------------------------------------------------------
+Seq: KKNRISIYFWSNINI
+-------------------------------------------------------------------
+Seq: HQYLNIFTQIGV
+-------------------------------------------------------------------
+Seq: TFLHRSVFENLPFQANIFIYF
+Found CK2_PHOSPHO_SITE at position 6
+   match:   SVFE
+
+-------------------------------------------------------------------
+Seq: VYIFGVTSIFKHFYTDRCLKICHFRLIFLYIFDFLKVHQCFCYC
+Found PKC_PHOSPHO_SITE at position 15
+   match:   TDR
+
+-------------------------------------------------------------------
+Seq: KFISVFATVKLMQFILYFLCILYIYQT
+Found PKC_PHOSPHO_SITE at position 8
+   match:   TVK
+
+-------------------------------------------------------------------
+Seq: LFKSSSVFLLLLSLCSLYCIFYVSFIFTKPDSL
+Found CK2_PHOSPHO_SITE at position 28
+   match:   TKPD
+
+-------------------------------------------------------------------
+Seq: AYAVYTVFFMYPLYLPNLTPCKGVLS
+-------------------------------------------------------------------
+Seq: LPVKECCLKNN
+-------------------------------------------------------------------
+Seq: KQLKGLKSFLLV
+-------------------------------------------------------------------
+Seq: RSAVLKTTEGVKVVSFSLIDVHKVALAIKF
+Found CK2_PHOSPHO_SITE at position 17
+   match:   SLID
+
+-------------------------------------------------------------------
+Seq: QLNSSEVDIVSFLIVL
+Found ASN_GLYCOSYLATION at position 3
+   match:   NSSE
+
+Found CK2_PHOSPHO_SITE at position 5
+   match:   SEVD
+
+-------------------------------------------------------------------
+Seq: YSLIFNCPVMEQ
+-------------------------------------------------------------------
+Seq: LSCNGTVANSLNFCVQS
+Found ASN_GLYCOSYLATION at position 4
+   match:   NGTV
+
+Found MYRISTYL at position 5
+   match:   GTVANS
+
+-------------------------------------------------------------------
+Seq: TFVFRVKLFSVLSM
+-------------------------------------------------------------------
+Seq: WNSSKFTKLLCSELNCSQYFQCRGM
+Found ASN_GLYCOSYLATION at position 2
+   match:   NSSK
+
+Found ASN_GLYCOSYLATION at position 15
+   match:   NCSQ
+
+Found PKC_PHOSPHO_SITE at position 3
+   match:   SSK
+
+-------------------------------------------------------------------
+Seq: GNVINIVCMFGF
+Found MYRISTYL at position 1
+   match:   GNVINI
+
+-------------------------------------------------------------------
+Seq: CVCLGFNYTFYI
+Found ASN_GLYCOSYLATION at position 7
+   match:   NYTF
+
+-------------------------------------------------------------------
+Seq: LHILYMSHLDMQC
+Found CK2_PHOSPHO_SITE at position 7
+   match:   SHLD
+
+-------------------------------------------------------------------
+Seq: IVLSTFNVGECNKHSVYVWVLITHFIYEPFRYAVLILYCI
+-------------------------------------------------------------------
+Seq: ICSVNSILHLKCM
+-------------------------------------------------------------------
+Seq: FYTAFEVYVT
+Found CK2_PHOSPHO_SITE at position 3
+   match:   TAFE
+
+-------------------------------------------------------------------
+Seq: SVCNLAYVNAVMKLVCSSIR
+Found PKC_PHOSPHO_SITE at position 18
+   match:   SIR
+
+-------------------------------------------------------------------
+Seq: SWFAPASGSL
+-------------------------------------------------------------------
+Seq: SLNILLVKLSLFYQC
+-------------------------------------------------------------------
+Seq: CVQAVFLFCFSPGIRKWWRFLYWIAPRKLLGRKEGH
+Found AMIDATION at position 30
+   match:   LGRK
+
+-------------------------------------------------------------------
+Seq: NCHCFISANVCKQFFYFAFLLASESGGVFCTGLHQGSFWGGRKDIKFFPW
+Found MYRISTYL at position 26
+   match:   GGVFCT
+
+Found MYRISTYL at position 32
+   match:   GLHQGS
+
+Found AMIDATION at position 40
+   match:   GGRK
+
+-------------------------------------------------------------------
+Seq: CSHEVGLLQHPVVFKHSFSEIVIVLSVLMCASSFFILLFSWHQKVVAFSVLDCTKEAFGEEGRTLNSFPGNEKSPLSIQCCNFWISATLCF
+Found CK2_PHOSPHO_SITE at position 17
+   match:   SFSE
+
+Found CK2_PHOSPHO_SITE at position 49
+   match:   SVLD
+
+-------------------------------------------------------------------
+Seq: ILSLVMKRALYQYSAAISGYQLHFVFKFVFDMFIWQIL
+-------------------------------------------------------------------
+Seq: HVYLANFIMKF
+-------------------------------------------------------------------
+Seq: KEPFINTVLQFLDISYTLFLSLFLTCLFGKFYNEVLS
+-------------------------------------------------------------------
+Seq: SFKLKIKCSNILIKKKKK
+Found PKC_PHOSPHO_SITE at position 1
+   match:   SFK
+
+-------------------------------------------------------------------
+Seq: SKCCYILFST
+-------------------------------------------------------------------
+Seq: FFFFFDQNVATFYFQLKTSL
+-------------------------------------------------------------------
+Seq: NLPNKHVKNKLKNKV
+Found MICROBODIES_CTER at position 13
+   match:   NKV
+
+-------------------------------------------------------------------
+Seq: FFFFLIKMLLHFIFNLKLHYKICQINMSKTNLKTKCS
+Found ASN_GLYCOSYLATION at position 26
+   match:   NMSK
+
+-------------------------------------------------------------------
+Seq: RALFITRERI
+-------------------------------------------------------------------
+Seq: KQSVADIQKLQHCIDKGLFSLPGKEFNVLPSSPKASLVQSSTENATTF
+Found ASN_GLYCOSYLATION at position 44
+   match:   NATT
+
+Found PKC_PHOSPHO_SITE at position 32
+   match:   SPK
+
+Found CK2_PHOSPHO_SITE at position 3
+   match:   SVAD
+
+Found CK2_PHOSPHO_SITE at position 40
+   match:   SSTE
+
+-------------------------------------------------------------------
+Seq: LISRNCSTVLIKGSFHYQGKNLMSFLPPQKLPWCNPVQKTPPLSDARRKAK
+Found ASN_GLYCOSYLATION at position 5
+   match:   NCST
+
+-------------------------------------------------------------------
+Seq: CPSFLPKSFLGAIQYRKRHHFLMPGEKQNKKTACTH
+-------------------------------------------------------------------
+Seq: KNCLHTLALIKQ
+-------------------------------------------------------------------
+Seq: CQEKSKIKKLLAHISTDKTMTISLKECLKTTGCWSKPTS
+Found PKC_PHOSPHO_SITE at position 16
+   match:   TDK
+
+Found PKC_PHOSPHO_SITE at position 23
+   match:   SLK
+
+Found CK2_PHOSPHO_SITE at position 23
+   match:   SLKE
+
+-------------------------------------------------------------------
+Seq: NNDNFTKRMFKDYRMLEQTNFMTALT
+Found ASN_GLYCOSYLATION at position 4
+   match:   NFTK
+
+Found PKC_PHOSPHO_SITE at position 6
+   match:   TKR
+
+-------------------------------------------------------------------
+Seq: RLPDAGANQLHDCINIS
+-------------------------------------------------------------------
+Seq: HKLSYIHFKCSIELTLHI
+-------------------------------------------------------------------
+Seq: HCISKWLIYKMCN
+-------------------------------------------------------------------
+Seq: LKPKHTHYVYYIPLH
+-------------------------------------------------------------------
+Seq: AKLHTLQMQYRINTAYLNGSYIKCVIKTQTYTLCLLHSPTLKVLRTI
+Found ASN_GLYCOSYLATION at position 18
+   match:   NGSY
+
+Found PKC_PHOSPHO_SITE at position 40
+   match:   TLK
+
+-------------------------------------------------------------------
+Seq: NPNIHTMFITFPYIESTENNLTLNTKV
+Found ASN_GLYCOSYLATION at position 20
+   match:   NLTL
+
+Found MICROBODIES_CTER at position 25
+   match:   TKV
+
+-------------------------------------------------------------------
+Seq: TQKFSEFATVPLQDN
+Found PKC_PHOSPHO_SITE at position 1
+   match:   TQK
+
+-------------------------------------------------------------------
+Seq: ICYCSITGQLKMRLYQLH
+-------------------------------------------------------------------
+Seq: EQFNSEHKSLVNLLLFHYRTIKNETISTSLEFNC
+Found ASN_GLYCOSYLATION at position 23
+   match:   NETI
+
+Found PKC_PHOSPHO_SITE at position 20
+   match:   TIK
+
+Found CK2_PHOSPHO_SITE at position 28
+   match:   TSLE
+
+-------------------------------------------------------------------
+Seq: LLKLPYAHLLN
+-------------------------------------------------------------------
+Seq: TKRNDFNPFSCF
+Found PKC_PHOSPHO_SITE at position 1
+   match:   TKR
+
+-------------------------------------------------------------------
+Seq: PLQLFLRQHSFTGSQVW
+-------------------------------------------------------------------
+Seq: NLIAKATLCTSIKLKETTLTPSVVFKTALLYRESGLVNIKDT
+Found PKC_PHOSPHO_SITE at position 11
+   match:   SIK
+
+-------------------------------------------------------------------
+Seq: DSTPLQGVRFGKYKGYIKNTV
+Found MYRISTYL at position 7
+   match:   GVRFGK
+
+-------------------------------------------------------------------
+Seq: RIHKKYSINCISLTVAKTLMNF
+Found CAMP_PHOSPHO_SITE at position 4
+   match:   KKYS
+
+-------------------------------------------------------------------
+Seq: KIQYKLHKLNSSKNTDELLKSQKYIKILA
+Found ASN_GLYCOSYLATION at position 10
+   match:   NSSK
+
+Found PKC_PHOSPHO_SITE at position 11
+   match:   SSK
+
+Found PKC_PHOSPHO_SITE at position 21
+   match:   SQK
+
+-------------------------------------------------------------------
+Seq: TFKKSKIYKNISLKWQIFKHRSV
+Found ASN_GLYCOSYLATION at position 10
+   match:   NISL
+
+Found PKC_PHOSPHO_SITE at position 1
+   match:   TFK
+
+Found PKC_PHOSPHO_SITE at position 12
+   match:   SLK
+
+-------------------------------------------------------------------
+Seq: NGKFSNTDLCKNV
+Found CK2_PHOSPHO_SITE at position 5
+   match:   SNTD
+
+-------------------------------------------------------------------
+Seq: PEMANFQTPICVKMFKY
+-------------------------------------------------------------------
+Seq: CYSKNIYLFYFFSICNSL
+-------------------------------------------------------------------
+Seq: ILMLLQKYILILFFFYLQQFIKANKHLQLR
+-------------------------------------------------------------------
+Seq: QSQIHKLWIKKNTLPMF
+Found CAMP_PHOSPHO_SITE at position 10
+   match:   KKNT
+
+-------------------------------------------------------------------
+Seq: KCLNIDVTPKIYTYSIFFLFATVYKGKQTPAIEVAKPNSQTLDQEKYPSYVLTASSIQ
+Found PKC_PHOSPHO_SITE at position 8
+   match:   TPK
+
+-------------------------------------------------------------------
+Seq: GSKAKFTNFGSRKIPFLCFNSIFYTIVNEF
+Found PKC_PHOSPHO_SITE at position 11
+   match:   SRK
+
+-------------------------------------------------------------------
+Seq: ILIVPKFLIHITLQNFI
+-------------------------------------------------------------------
+Seq: MNSNCSKIFNSHYFTKFYLKY
+Found ASN_GLYCOSYLATION at position 4
+   match:   NCSK
+
+-------------------------------------------------------------------
+Seq: FTLLYKILFKILKMFC
+-------------------------------------------------------------------
+Seq: KCFVKKTVSPDNHLTFKILYKKI
+Found PKC_PHOSPHO_SITE at position 15
+   match:   TFK
+
+-------------------------------------------------------------------
+Seq: QSSHIQNTVQKNLKSPYITKN
+-------------------------------------------------------------------
+Seq: NTENVLLKRQLVLTIISHSKYCTKKSEVTIYYKKLSYVFTFSM
+Found CAMP_PHOSPHO_SITE at position 33
+   match:   KKLS
+
+Found PKC_PHOSPHO_SITE at position 23
+   match:   TKK
+
+Found TYR_PHOSPHO_SITE at position 24
+   match:   KKSEVTIY
+
+-------------------------------------------------------------------
+Seq: AMYLHFQCSFRS
+Found PKC_PHOSPHO_SITE at position 9
+   match:   SFR
+
+-------------------------------------------------------------------
+Seq: SHHILQKTKLCIYIFNVVLEVEVKPTATNGLL
+-------------------------------------------------------------------
+Seq: ANCYKWSPLSSVC
+-------------------------------------------------------------------
+Seq: KLRLSQLLQMVSFKQCLLIMSSLFTFSI
+Found PKC_PHOSPHO_SITE at position 12
+   match:   SFK
+
+-------------------------------------------------------------------
+Seq: AVSANNVITFHFQHLI
+-------------------------------------------------------------------
+Seq: CHHFSLSAFNIGPSFCFQII
+-------------------------------------------------------------------
+Seq: ALLFAFKLYN
+-------------------------------------------------------------------
+Seq: YRPFFLLSNYIISKGFKEKQMKILFSY
+-------------------------------------------------------------------
+Seq: RKTNENSILLLNKT
+-------------------------------------------------------------------
+Seq: MYFKWNSVFI
+-------------------------------------------------------------------
+Seq: MEQCFHLRKANWQKNIKI
+-------------------------------------------------------------------
+Seq: EKPTGKKTSKFEK
+Found CAMP_PHOSPHO_SITE at position 6
+   match:   KKTS
+
+Found PKC_PHOSPHO_SITE at position 4
+   match:   TGK
+
+Found PKC_PHOSPHO_SITE at position 8
+   match:   TSK
+
+Found CK2_PHOSPHO_SITE at position 9
+   match:   SKFE
+
+Found AMIDATION at position 4
+   match:   TGKK
+
+-------------------------------------------------------------------
+Seq: IKHKCTLNGTVFSFKKSQLAKKHQNLKSNQKP
+Found ASN_GLYCOSYLATION at position 8
+   match:   NGTV
+
+Found PKC_PHOSPHO_SITE at position 13
+   match:   SFK
+
+Found MYRISTYL at position 9
+   match:   GTVFSF
+
+-------------------------------------------------------------------
+Seq: TSIAFFTVHLY
+-------------------------------------------------------------------
+Seq: HSSQYIYIKTVFCFQIKG
+-------------------------------------------------------------------
+Seq: KFPIKMQILTSLLVFFLC
+-------------------------------------------------------------------
+Seq: NANSHILTCIFPMLTVS
+-------------------------------------------------------------------
+Seq: SETININSILHSTFILRLSSVFRLRVENFPLKCKFSHPYLYFSYVNCKLIQVNTAILKDQLLGSIVLTQKEKKKYRPCQCNKRKFRIFFLVFANGSWNCRSIL
+Found ASN_GLYCOSYLATION at position 94
+   match:   NGSW
+
+Found PKC_PHOSPHO_SITE at position 68
+   match:   TQK
+
+Found CK2_PHOSPHO_SITE at position 68
+   match:   TQKE
+
+Found MYRISTYL at position 95
+   match:   GSWNCR
+
+-------------------------------------------------------------------
+Seq: VNTSKHGYIKRSTTRLHSPDSKRKKKVQTLSVQQKKVSDFFPCFCKWQLELQEYFVEKPEEH
+Found ASN_GLYCOSYLATION at position 2
+   match:   NTSK
+
+Found CAMP_PHOSPHO_SITE at position 10
+   match:   KRST
+
+Found CAMP_PHOSPHO_SITE at position 35
+   match:   KKVS
+
+Found PKC_PHOSPHO_SITE at position 3
+   match:   TSK
+
+Found PKC_PHOSPHO_SITE at position 13
+   match:   TTR
+
+Found PKC_PHOSPHO_SITE at position 21
+   match:   SKR
+
+Found TYR_PHOSPHO_SITE at position 46
+   match:   KWQLELQEY
+
+-------------------------------------------------------------------
+Seq: KSQKSISRCMEIYGRAHADSTFPKPRRISSYSGTRHELLGGQATW
+Found CAMP_PHOSPHO_SITE at position 26
+   match:   RRIS
+
+Found PKC_PHOSPHO_SITE at position 2
+   match:   SQK
+
+Found CK2_PHOSPHO_SITE at position 34
+   match:   TRHE
+
+Found MYRISTYL at position 40
+   match:   GGQATW
+
+-------------------------------------------------------------------
+Seq: QYFSQATPYFFLQWYSSRASRWTSNMVK
+Found PKC_PHOSPHO_SITE at position 16
+   match:   SSR
+
+-------------------------------------------------------------------
+Seq: NKLCRNKAECG
+-------------------------------------------------------------------
+Seq: NHMGGTTPRP
+Found PKC_PHOSPHO_SITE at position 7
+   match:   TPR
+
+-------------------------------------------------------------------
+Seq: GRMWLKPHGRDHAKAMMRSPK
+Found PKC_PHOSPHO_SITE at position 19
+   match:   SPK
+
+-------------------------------------------------------------------
+Seq: LKKKKKSTDPVSATKESFGFFSLFLQMAAGIAGVFCRKARRALVDVWKYTVGHTLTVLFPSHAVFLLTVVLVTSFSVDKQHGEINYVEIRQNVVKTTWEGPRQGHDEITQVIGVANKAPPSRN
+Found CAMP_PHOSPHO_SITE at position 4
+   match:   KKKS
+
+Found CK2_PHOSPHO_SITE at position 96
+   match:   TTWE
+
+Found TYR_PHOSPHO_SITE at position 41
+   match:   RALVDVWKY
+
+Found TYR_PHOSPHO_SITE at position 79
+   match:   KQHGEINY
+
+-------------------------------------------------------------------
+Seq: LGWRTKPHHPETRRFFPVEV
+Found PKC_PHOSPHO_SITE at position 12
+   match:   TRR
+
+-------------------------------------------------------------------
+Seq: MVFKCASFGSLGFFRNAFF
+-------------------------------------------------------------------
+Seq: DHPSNWGGEQSPTIQKLEDFFPLKYEWFLNVQALDHWDFSGMHFSENLHLGRLHNHKVSEQ
+Found MYRISTYL at position 41
+   match:   GMHFSE
+
+-------------------------------------------------------------------
+Seq: MCKLWITGIFPECIFLRICTSEDYITTKFQNNN
+Found PKC_PHOSPHO_SITE at position 26
+   match:   TTK
+
+Found CK2_PHOSPHO_SITE at position 20
+   match:   TSED
+
+-------------------------------------------------------------------
+Seq: PQSFRTIIREAIGQDTSFG
+Found PKC_PHOSPHO_SITE at position 3
+   match:   SFR
+
+Found MYRISTYL at position 13
+   match:   GQDTSF
+
+-------------------------------------------------------------------
+Seq: LEKPLAKTLHLDD
+-------------------------------------------------------------------
+Seq: RSHWPRHFIWMTD
+-------------------------------------------------------------------
+Seq: REPTPSLQKPA
+-------------------------------------------------------------------
+Seq: IKGTHTKSPKASMNPNPSWMMSMVVNNASSFQRASTT
+Found ASN_GLYCOSYLATION at position 27
+   match:   NASS
+
+Found PKC_PHOSPHO_SITE at position 8
+   match:   SPK
+
+-------------------------------------------------------------------
+Seq: CPWSSTTLPHSREHPPHREAGNY
+-------------------------------------------------------------------
+Seq: IKGLEAVNKGNPHQVSKSQHESKSIVDDVHGRQQRFLIPESIHHIEKLETIN
+Found CK2_PHOSPHO_SITE at position 18
+   match:   SQHE
+
+Found CK2_PHOSPHO_SITE at position 24
+   match:   SIVD
+
+-------------------------------------------------------------------
+Seq: LKSWPRMEQRGPVFSFQPKASPS
+-------------------------------------------------------------------
+Seq: PPIQSIRGAIHKSI
+Found PKC_PHOSPHO_SITE at position 5
+   match:   SIR
+
+-------------------------------------------------------------------
+Seq: NHGQGWNSAVLYFHFSQKHHQVNNHPSNQSGAQFTKVFEIKSTNSRV
+Found ASN_GLYCOSYLATION at position 28
+   match:   NQSG
+
+Found PKC_PHOSPHO_SITE at position 16
+   match:   SQK
+
+Found MYRISTYL at position 3
+   match:   GQGWNS
+
+Found MYRISTYL at position 31
+   match:   GAQFTK
+
+Found MICROBODIES_CTER at position 45
+   match:   SRV
+
+-------------------------------------------------------------------
+Seq: DQKYQFEGLIHGQ
+Found MYRISTYL at position 8
+   match:   GLIHGQ
+
+-------------------------------------------------------------------
+Seq: RSWKLLTKIMAKDGTARSCIFISAKSITKLITTHPINPGRNSQKYLRSKVPIRGFNSRPMKKS
+Found PKC_PHOSPHO_SITE at position 2
+   match:   SWK
+
+Found PKC_PHOSPHO_SITE at position 15
+   match:   TAR
+
+Found PKC_PHOSPHO_SITE at position 23
+   match:   SAK
+
+Found PKC_PHOSPHO_SITE at position 42
+   match:   SQK
+
+Found MYRISTYL at position 14
+   match:   GTARSC
+
+-------------------------------------------------------------------
+Seq: TAFPELAGDRSFRGAFKERM
+Found PKC_PHOSPHO_SITE at position 11
+   match:   SFR
+
+-------------------------------------------------------------------
+Seq: RYTLKTTQKTVAASAN
+Found PKC_PHOSPHO_SITE at position 3
+   match:   TLK
+
+Found PKC_PHOSPHO_SITE at position 7
+   match:   TQK
+
+-------------------------------------------------------------------
+Seq: RNHRQHFQSWQATGHSGALSKSACRDTHSRPHKKQWPQVQTEENDCTRNETLRPGREMFR
+Found ASN_GLYCOSYLATION at position 49
+   match:   NETL
+
+Found PKC_PHOSPHO_SITE at position 51
+   match:   TLR
+
+Found CK2_PHOSPHO_SITE at position 47
+   match:   TRNE
+
+-------------------------------------------------------------------
+Seq: NSTPWKRDVPMTADVRIKA
+-------------------------------------------------------------------
+Seq: FTANEEIIDSISRAGRRQVIPGRFQRAHVEIHTQDHTKNSGRKCKLKKMTVHVMKLYALEERCSDDCRCQDKSIESI
+Found CAMP_PHOSPHO_SITE at position 47
+   match:   KKMT
+
+Found PKC_PHOSPHO_SITE at position 40
+   match:   SGR
+
+Found CK2_PHOSPHO_SITE at position 2
+   match:   TANE
+
+Found AMIDATION at position 14
+   match:   AGRR
+
+Found AMIDATION at position 40
+   match:   SGRK
+
+-------------------------------------------------------------------
+Seq: SILESSSINKRRSFYNLSNWQ
+Found ASN_GLYCOSYLATION at position 16
+   match:   NLSN
+
+Found CAMP_PHOSPHO_SITE at position 10
+   match:   KRRS
+
+Found CK2_PHOSPHO_SITE at position 1
+   match:   SILE
+
+-------------------------------------------------------------------
+Seq: NPFNLYLSLLPSIRGVPSTTFPIGSR
+Found PKC_PHOSPHO_SITE at position 12
+   match:   SIR
+
+Found MYRISTYL at position 15
+   match:   GVPSTT
+
+-------------------------------------------------------------------
+Seq: VEQDLNQKPQEVDPKYSGFP
+-------------------------------------------------------------------
+Seq: EAFLLQPFQLAVGRTGLESKTTGGRPQILWFPITHTKLAKEEGNSEDWDLSVYTSTATGRGTQAGQT
+Found PKC_PHOSPHO_SITE at position 58
+   match:   TGR
+
+Found CK2_PHOSPHO_SITE at position 15
+   match:   TGLE
+
+Found MYRISTYL at position 61
+   match:   GTQAGQ
+
+-------------------------------------------------------------------
+Seq: ETHQVLLQTPSPLPGWGSLQRFSLPVLLQRIFLP
+-------------------------------------------------------------------
+Seq: LIQSWQRRREIQKTGIFLFTHQQQQEEEHRQAKHDEKHTRYSSKLQVLCPDGGHFKGSHCQFFCNVFFFLRIYFF
+Found PKC_PHOSPHO_SITE at position 42
+   match:   SSK
+
+-------------------------------------------------------------------
+Seq: TPNTLVSHNSYKAGKGGGKFRRLGSFCLHINSNRKRNTGRPNMMRNTPGTPPNSKSFARMGVTSKVLTASSFATYFSSLESISFNLTSSLLGRRLYCVAM
+Found ASN_GLYCOSYLATION at position 85
+   match:   NLTS
+
+Found CAMP_PHOSPHO_SITE at position 35
+   match:   KRNT
+
+Found PKC_PHOSPHO_SITE at position 10
+   match:   SYK
+
+Found PKC_PHOSPHO_SITE at position 32
+   match:   SNR
+
+Found PKC_PHOSPHO_SITE at position 38
+   match:   TGR
+
+Found PKC_PHOSPHO_SITE at position 63
+   match:   TSK
+
+Found CK2_PHOSPHO_SITE at position 77
+   match:   SSLE
+
+Found MYRISTYL at position 49
+   match:   GTPPNS
+
+Found AMIDATION at position 91
+   match:   LGRR
+
+-------------------------------------------------------------------
+Seq: FDFFSSWTKAILCCYVTAFL
+-------------------------------------------------------------------
+Seq: LLLFLDEGYTVLLCNCFLVTN
+-------------------------------------------------------------------
+Seq: LLSCDKLNFSCVFL
+Found ASN_GLYCOSYLATION at position 8
+   match:   NFSC
+
+-------------------------------------------------------------------
+Seq: IFPVYFYEVRHFSQYAQAPHYIC
+-------------------------------------------------------------------
+Seq: CYFQMASESAESI
+-------------------------------------------------------------------
+Seq: CRPGGKQKQIGGHF
+Found MICROBODIES_CTER at position 12
+   match:   GHF
+
+-------------------------------------------------------------------
+Seq: QTEFFLCIFMRCVISLNMLRLPIISADAISKWLQNQRSQFNFHFPPCFLNVGLVGSRSRSAGTFRWSTRGSGA
+Found PKC_PHOSPHO_SITE at position 63
+   match:   TFR
+
+Found PKC_PHOSPHO_SITE at position 67
+   match:   STR
+
+Found MYRISTYL at position 52
+   match:   GLVGSR
+
+-------------------------------------------------------------------
+Seq: STPSASGRGTGS
+Found PKC_PHOSPHO_SITE at position 6
+   match:   SGR
+
+-------------------------------------------------------------------
+Seq: VVDQGIGSVTLIDSLGVWKGNWKLSHLSFA
+Found CK2_PHOSPHO_SITE at position 10
+   match:   TLID
+
+Found MYRISTYL at position 16
+   match:   GVWKGN
+
+-------------------------------------------------------------------
+Seq: GASFLSICSGSPLYLLMLFPNGFRISGVNLTSTSLLASLMSAWWEAEADRRALLGGRPGDRERDLDRLPRRLEGELEVEPPFLCLKEVKGLISFSFNSSSVPSLYFTV
+Found ASN_GLYCOSYLATION at position 29
+   match:   NLTS
+
+Found ASN_GLYCOSYLATION at position 97
+   match:   NSSS
+
+Found MYRISTYL at position 27
+   match:   GVNLTS
+
+Found MYRISTYL at position 55
+   match:   GGRPGD
+
+-------------------------------------------------------------------
+Seq: SWEVLSWLRISTS
+-------------------------------------------------------------------
+Seq: RLNIILFQFKLCSIFILHSVKLGGAVVAQNFYFIIK
+Found PKC_PHOSPHO_SITE at position 19
+   match:   SVK
+
+Found MYRISTYL at position 24
+   match:   GAVVAQ
+
+-------------------------------------------------------------------
+Seq: TPRPSTSYHFTIGKFPTWHFL
+Found PKC_PHOSPHO_SITE at position 1
+   match:   TPR
+
+-------------------------------------------------------------------
+Seq: SELPGHRPLTTSPSANFLLGIFYN
+-------------------------------------------------------------------
+Seq: YHSLSIQALFHLYTSQCKAGRCCRGSEFLLHNKVNSQAIDLLPLHHRQISYLAFSIINLRQVPAVTRTAPGE
+-------------------------------------------------------------------
+Seq: PAPGSGGDTDGSRRIVAQQPGGRSTRATLPGRALAPRSPASRARASPAPPRGA
+Found PKC_PHOSPHO_SITE at position 12
+   match:   SRR
+
+Found PKC_PHOSPHO_SITE at position 24
+   match:   STR
+
+Found CK2_PHOSPHO_SITE at position 5
+   match:   SGGD
+
+Found MYRISTYL at position 21
+   match:   GGRSTR
+
+-------------------------------------------------------------------
+Seq: SHSNPAADPRARRYPAALSRPAVPQAGRAPPRPRLAAL
+-------------------------------------------------------------------
+Seq: HGRLPENSRTATRRQIHARDATRPRSRAPQSRKPGARLPGPASRRF
+Found PKC_PHOSPHO_SITE at position 12
+   match:   TRR
+
+Found PKC_PHOSPHO_SITE at position 31
+   match:   SRK
+
+Found PKC_PHOSPHO_SITE at position 43
+   match:   SRR
+
+-------------------------------------------------------------------

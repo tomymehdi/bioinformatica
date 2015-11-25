@@ -14,7 +14,7 @@ my @params = ( '-prog' => $prog, '-data' => $db, '-expect' => $e_val, '-readmeth
 my $remoteBlast = Bio::Tools::Run::RemoteBlast->new(@params);
 
 # Creamos el BLAST
-$infile = 'raynolds.fas';
+$infile = 'reynolds.fas';
 $r = $remoteBlast->submit_blast($infile);
 
 my $v = 1;

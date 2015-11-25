@@ -1,0 +1,420 @@
+LOCUS       NM_002296               3837 bp    mRNA    linear   PRI 15-MAR-2015
+DEFINITION  Homo sapiens lamin B receptor (LBR), transcript variant 1, mRNA.
+ACCESSION   NM_002296
+VERSION     NM_002296.3  GI:328447199
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3837)
+  AUTHORS   Borovik L, Modaff P, Waterham HR, Krentz AD and Pauli RM.
+  TITLE     Pelger-huet anomaly and a mild skeletal phenotype secondary to
+            mutations in LBR
+  JOURNAL   Am. J. Med. Genet. A 161A (8), 2066-2073 (2013)
+   PUBMED   23824842
+  REMARK    GeneRIF: Mutation in LBR gene is associated with pelger-huet
+            anomaly and a mild skeletal phenotype.
+REFERENCE   2  (bases 1 to 3837)
+  AUTHORS   Lauc G, Huffman JE, Pucic M, Zgaga L, Adamczyk B, Muzinic A,
+            Novokmet M, Polasek O, Gornik O, Kristic J, Keser T, Vitart V,
+            Scheijen B, Uh HW, Molokhia M, Patrick AL, McKeigue P, Kolcic I,
+            Lukic IK, Swann O, van Leeuwen FN, Ruhaak LR, Houwing-Duistermaat
+            JJ, Slagboom PE, Beekman M, de Craen AJ, Deelder AM, Zeng Q, Wang
+            W, Hastie ND, Gyllensten U, Wilson JF, Wuhrer M, Wright AF, Rudd
+            PM, Hayward C, Aulchenko Y, Campbell H and Rudan I.
+  TITLE     Loci associated with N-glycosylation of human immunoglobulin G show
+            pleiotropy with autoimmune diseases and haematological cancers
+  JOURNAL   PLoS Genet. 9 (1), E1003225 (2013)
+   PUBMED   23382691
+REFERENCE   3  (bases 1 to 3837)
+  AUTHORS   Kasbekar DP.
+  TITLE     Lymphohematopoietic licence: sterol C-14 reductase activity of
+            lamin B receptor (Lbr) is essential for neutrophil differentiation
+  JOURNAL   J. Biosci. 37 (2), 199-201 (2012)
+   PUBMED   22581323
+  REMARK    GeneRIF: Lymphohematopoietic licence: sterol C-14 reductase
+            activity of lamin B receptor (Lbr) is essential for neutrophil
+            differentiation.
+REFERENCE   4  (bases 1 to 3837)
+  AUTHORS   Tseng LC and Chen RH.
+  TITLE     Temporal control of nuclear envelope assembly by phosphorylation of
+            lamin B receptor
+  JOURNAL   Mol. Biol. Cell 22 (18), 3306-3317 (2011)
+   PUBMED   21795390
+  REMARK    GeneRIF: Our studies reveal for the first time a mechanism that
+            controls the timing of nuclear envelope reassembly through
+            modification of the integral nuclear membrane protein lamin B
+            receptor
+REFERENCE   5  (bases 1 to 3837)
+  AUTHORS   Olins AL, Ernst A, Zwerger M, Herrmann H and Olins DE.
+  TITLE     An in vitro model for Pelger-Huet anomaly: stable knockdown of
+            lamin B receptor in HL-60 cells
+  JOURNAL   Nucleus 1 (6), 506-512 (2010)
+   PUBMED   21327094
+  REMARK    GeneRIF: The LBR knockdown cells retain an ovoid shaped nucleus
+            with reduced levels of lamin A/C during in vitro granulopoiesis
+            induced with retinoic acid.
+REFERENCE   6  (bases 1 to 3837)
+  AUTHORS   Ye Q and Worman HJ.
+  TITLE     Interaction between an integral protein of the nuclear envelope
+            inner membrane and human chromodomain proteins homologous to
+            Drosophila HP1
+  JOURNAL   J. Biol. Chem. 271 (25), 14653-14656 (1996)
+   PUBMED   8663349
+REFERENCE   7  (bases 1 to 3837)
+  AUTHORS   Schuler E, Lin F and Worman HJ.
+  TITLE     Characterization of the human gene encoding LBR, an integral
+            protein of the nuclear envelope inner membrane
+  JOURNAL   J. Biol. Chem. 269 (15), 11312-11317 (1994)
+   PUBMED   8157663
+REFERENCE   8  (bases 1 to 3837)
+  AUTHORS   Ye Q and Worman HJ.
+  TITLE     Primary structure analysis and lamin B and DNA binding of human
+            LBR, an integral protein of the nuclear envelope inner membrane
+  JOURNAL   J. Biol. Chem. 269 (15), 11306-11311 (1994)
+   PUBMED   8157662
+REFERENCE   9  (bases 1 to 3837)
+  AUTHORS   Soullam B and Worman HJ.
+  TITLE     The amino-terminal domain of the lamin B receptor is a nuclear
+            envelope targeting signal
+  JOURNAL   J. Cell Biol. 120 (5), 1093-1100 (1993)
+   PUBMED   7679672
+REFERENCE   10 (bases 1 to 3837)
+  AUTHORS   Worman HJ, Yuan J, Blobel G and Georgatos SD.
+  TITLE     A lamin B receptor in the nuclear envelope
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 85 (22), 8531-8534 (1988)
+   PUBMED   2847165
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AU134026.1, BC020079.1 and
+            L25931.1.
+            On Apr 7, 2011 this sequence version replaced gi:37595749.
+            
+            Summary: The protein encoded by this gene belongs to the ERG4/ERG24
+            family. It localized in the nuclear envelope inner membrane and
+            anchors the lamina and the heterochromatin to the membrane. It may
+            mediate interaction between chromatin and lamin B. Mutations of
+            this gene has been associated with autosomal recessive
+            HEM/Greenberg skeletal dysplasia. Alternative splicing occurs at
+            this locus and two transcript variants encoding the same protein
+            have been identified. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript. Variants 1 and 2 encode the same protein.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC020079.1, L25931.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-78                AU134026.1         1-78
+            79-2276             BC020079.1         1-2198
+            2277-3814           L25931.1           2177-3714
+            3815-3837           BC020079.1         3737-3759
+FEATURES             Location/Qualifiers
+     source          1..3837
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1q42.1"
+     gene            1..3837
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /note="lamin B receptor"
+                     /db_xref="GeneID:3930"
+                     /db_xref="HGNC:HGNC:6518"
+                     /db_xref="MIM:600024"
+     exon            1..160
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            161..339
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    169..171
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /note="upstream in-frame stop codon"
+     CDS             175..2022
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /note="integral nuclear envelope inner membrane protein;
+                     tudor domain containing 18"
+                     /codon_start=1
+                     /product="lamin-B receptor"
+                     /protein_id="NP_002287.2"
+                     /db_xref="GI:37595750"
+                     /db_xref="CCDS:CCDS1545.1"
+                     /db_xref="GeneID:3930"
+                     /db_xref="HGNC:HGNC:6518"
+                     /db_xref="MIM:600024"
+                     /translation="MPSRKFADGEVVRGRWPGSSLYYEVEILSHDSTSQLYTVKYKDG
+                     TELELKENDIKPLTSFRQRKGGSTSSSPSRRRGSRSRSRSRSPGRPPKSARRSASASH
+                     QADIKEARREVEVKLTPLILKPFGNSISRYNGEPEHIERNDAPHKNTQEKFSLSQESS
+                     YIATQYSLRPRREEVKLKEIDSKEEKYVAKELAVRTFEVTPIRAKDLEFGGVPGVFLI
+                     MFGLPVFLFLLLLMCKQKDPSLLNFPPPLPALYELWETRVFGVYLLWFLIQVLFYLLP
+                     IGKVVEGTPLIDGRRLKYRLNGFYAFILTSAVIGTSLFQGVEFHYVYSHFLQFALAAT
+                     VFCVVLSVYLYMRSLKAPRNDLSPASSGNAVYDFFIGRELNPRIGTFDLKYFCELRPG
+                     LIGWVVINLVMLLAEMKIQDRAVPSLAMILVNSFQLLYVVDALWNEEALLTTMDIIHD
+                     GFGFMLAFGDLVWVPFIYSFQAFYLVSHPNEVSWPMASLIIVLKLCGYVIFRGANSQK
+                     NAFRKNPSDPKLAHLKTIHTSTGKNLLVSGWWGFVRHPNYLGDLIMALAWSLPCGFNH
+                     ILPYFYIIYFTMLLVHREARDEYHCKKKYGVAWEKYCQRVPYRIFPYIY"
+     misc_feature    337..339
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine; propagated from
+                     UniProtKB/Swiss-Prot (Q14739.2); acetylation site"
+     misc_feature    385..387
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CDK1; propagated from
+                     UniProtKB/Swiss-Prot (Q14739.2); phosphorylation site"
+     misc_feature    430..432
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CDK1; propagated from
+                     UniProtKB/Swiss-Prot (Q14739.2); phosphorylation site"
+     misc_feature    463..465
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (Q14739.2); phosphorylation site"
+     misc_feature    469..471
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (Q14739.2); phosphorylation site"
+     misc_feature    526..528
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine; propagated from
+                     UniProtKB/Swiss-Prot (Q14739.2); phosphorylation site"
+     misc_feature    808..870
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    946..1008
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    1069..1131
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    1150..1212
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    1330..1392
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    1513..1575
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    1615..1677
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    1855..1917
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14739.2);
+                     transmembrane region"
+     misc_feature    1954..1956
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine; propagated from
+                     UniProtKB/Swiss-Prot (Q14739.2); acetylation site"
+     misc_feature    1975..1977
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine; propagated from
+                     UniProtKB/Swiss-Prot (Q14739.2); acetylation site"
+     exon            340..540
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     STS             354..476
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /standard_name="RH64516"
+                     /db_xref="UniSTS:1390"
+     exon            541..624
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            625..814
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            815..1011
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1012..1066
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1067..1258
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1259..1362
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1363..1488
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1489..1657
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1658..1738
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1739..1861
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1862..3823
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2578..2904
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /standard_name="SHGC-12892"
+                     /db_xref="UniSTS:28978"
+     STS             3175..3813
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+                     /standard_name="LBR_8434"
+                     /db_xref="UniSTS:471477"
+     regulatory      3798..3803
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+     polyA_site      3824
+                     /gene="LBR"
+                     /gene_synonym="DHCR14B; LMN2R; PHA; TDRD18"
+ORIGIN      
+        1 gaagcgccgc gaggcggggc cggggaggcg cgcgcccggc ttgcgggact gcggggcgcg
+       61 agagcgcggc cgggtagcgt cgcgcgcgtg gatctgccgc cgggttgctg tgcgactatt
+      121 ctccgggagc cgtccgtgtc accgccggaa cctggcgcag gttaattata gaaaatgcca
+      181 agtaggaaat ttgccgatgg tgaagtggta agaggtcgat ggcctgggag ttcactttat
+      241 tatgaagtag aaattctgag ccacgacagc acctcccagc tttacactgt gaagtataaa
+      301 gatggaacag agcttgaatt gaaagagaat gatattaagc ctttaacttc ctttaggcaa
+      361 aggaaaggtg gctcaacttc cagttcccct tccagacgcc gagggagtcg atcaaggtca
+      421 cgctcccgat cccctggtcg accacctaaa agtgcccgcc gatctgcttc tgcttcccac
+      481 caggccgaca ttaaggaagc aaggagggaa gtggaagtta aattgactcc gctgattctg
+      541 aagccatttg gaaatagcat cagcagatat aatggggagc ctgagcatat tgagagaaat
+      601 gacgcacctc ataaaaatac acaggaaaaa ttcagtttgt cacaagaaag cagttacata
+      661 gcaacacagt atagccttcg tccaagaaga gaagaagtca aattaaaaga aatagattct
+      721 aaggaagaaa aatacgttgc aaaagaactg gcagtgagaa cctttgaagt gacccccatc
+      781 cgggcaaagg acttggagtt tggaggagta cctggtgtgt ttctcatcat gtttggcctg
+      841 cctgtgttcc tcttcctgtt gctgttgatg tgtaaacaga aagatcccag tcttctgaat
+      901 ttccctcctc ctttgccagc tttgtatgag ttatgggaaa ccagagtatt tggggtctac
+      961 ctcctgtggt ttttgattca agtcctgttc tacctactgc caattggaaa ggttgtagaa
+     1021 ggaacgcctc ttattgatgg aagaagactc aagtatagat taaatggatt ctatgctttt
+     1081 atcctgacat ctgcagtcat cggaacatct ctcttccagg gcgtagagtt tcattacgtg
+     1141 tacagtcatt ttcttcagtt tgcacttgcg gccactgttt tttgtgtggt cttgagtgtg
+     1201 tatctctaca tgcgctcttt gaaagcgccc cggaatgacc tgtcgcctgc cagctctgga
+     1261 aatgctgtct atgatttctt cattggccgt gaattaaacc ctcgaattgg tacttttgat
+     1321 ctcaaatact tttgtgaatt gcgccccgga ttgattggat gggtggttat taacttggtg
+     1381 atgcttttgg ctgaaatgaa aatacaggac cgcgctgttc catccttggc catgatttta
+     1441 gttaatagtt tccagcttct ctatgtggtg gatgctctct ggaatgagga agcgttgttg
+     1501 acgaccatgg acatcatcca cgatggattt ggattcatgc tggcttttgg agacttggtg
+     1561 tgggttccct ttatttacag cttccaagcc ttttatttag tcagtcatcc aaatgaagtg
+     1621 tcttggccaa tggcttctct aattattgtt ctgaaacttt gtggttatgt aatcttccga
+     1681 ggtgcaaatt ctcagaaaaa tgcattccgg aaaaatccca gtgatccaaa gcttgcacat
+     1741 ttaaaaacca ttcatacttc aacgggaaaa aatcttctag tttctggatg gtggggcttt
+     1801 gttcgccacc ccaattactt gggtgatctc atcatggcct tggcgtggtc cctcccatgt
+     1861 ggttttaacc acattctgcc ttatttctac ataatttatt tcaccatgtt gcttgtccac
+     1921 cgagaagctc gtgacgagta ccactgtaag aagaaatacg gcgtggcttg ggaaaagtac
+     1981 tgtcagcgtg tgccctaccg tatatttcca tacatctact aatgctcttc tggcttttct
+     2041 acaaaatact cctgcaattc cagctgccat ttgcaaaaac aaggaaaaaa atccgaaact
+     2101 ttcttttgtt gcactgacag ggtctgtact tttttttttc tttttgagtc aggactatgg
+     2161 agccgagtag ttgatctttt aatatagccg tgtttacttg tattaactta cagttaacat
+     2221 aggaaaaata caagtaagga tgtgagaatt tgcattttaa tgggaaattt tcaaccctta
+     2281 atctgaaaac agaagacagt cttaatataa atgtactgtg aagaatgcta ttgatgttta
+     2341 tggtttctga ttacttttca aattttgatg tttttttgcc agttggcttt tcttaaatga
+     2401 aaacactgtt ccatttaaag tacatttatg ttttattcag taagagaata gaattttcat
+     2461 ttgtttttct ttaaatcctt tactaattat ataatttgaa agcaaaaaga agggcctata
+     2521 ttaaatgctg aaagtgaaaa gtgatgacat tattagcaga cactgcttaa aggagaccat
+     2581 ttgtagcagt tggcttaacc tcaacttcta aaactacatt gaaaatgtaa atacatagct
+     2641 tagttttttg taatatatgg tgacttcaga tttttttgta cagtattttg aatgtgagat
+     2701 gattgtcagg actaactgtc tttttaacaa aacattttca gtattttaaa taaaattttg
+     2761 taaagtaatg tgaattaaaa attttggaac aattagaatt cattcactat tgtatagaag
+     2821 atgctgttaa aacataggaa gggtattttt cttgatccaa agtttgtgaa tttggctttg
+     2881 ctacctcaat tgcaggtgtt tgtttgcctt tataaactgt tgcaaataga aaaaaaatag
+     2941 aataagtata tatttttgga gtaacatcaa tatttaaaca tttttacaca gatcggtgtt
+     3001 tgaaaatttg ccatttcagg ctaatatttt tatatatttt tgacttttta aaagttcatc
+     3061 agtgtttttg ctactgttaa gcttatgcag tttatactgt attttttatg tatcctttat
+     3121 atttaccaaa cctgactccc tgtaaaggag tgctgtctta aaaacaactg aaggggttaa
+     3181 agtcgtttct tttagtttaa tagatgtgca taaggtagct ttagcaatta aattctagtg
+     3241 aagttgatat agtctcattt ttaattgtcc tgtaatggaa cagtagcaaa ttcactaaac
+     3301 ttttgtgttc agagttaaat tgttctcagt actttcaatg taggggaatg taataaacat
+     3361 agtgtgtatg tttgggtttt aattacacat tttatatatg agccatttag atatgcagtg
+     3421 ttaattctat actgcatttg aagtgtatgt aacttagctt atgttaatgc agtcatgaag
+     3481 ttggtttgct ccagcatccg gtagtcttta aacattcttt tagtgaaatt gtcattgttt
+     3541 tatcagtgct aatgtgtgca agcagttttt ttattttgct tttctcctgg catcagaaag
+     3601 tggtggcgtt ttctgtactg gattgcacca aggaagcttt tggggaggaa ggaaggacat
+     3661 taaattcttt ccctggtaat gaaaagagcc ctttatcaat acagtgctgc aatttctgga
+     3721 tatcagctac actttgtttt taagtttgtt tttgacatgt ttatttggca aattttataa
+     3781 tgaagtttta agttgaaaat aaaatgtagc aacattttga tcaaaaaaaa aaaaaaa
+//
+
